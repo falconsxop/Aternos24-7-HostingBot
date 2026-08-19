@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "niros.aternos.me
-",
+    "ip": "niros.aternos.me",
     "port": 18729,
     "version": "",
     "try-creative": false
